@@ -1,0 +1,16 @@
+.text-input {
+  padding: 8px;
+  border-radius: 4px;
+  font-size: 16px;
+  text-decoration: none;
+  border: 1px solid #b0bec5;
+  box-shadow: 0px 0px 4px -1px rgba(0, 0, 0, 0.7) inset;
+}
+.text-input:disabled {
+  box-shadow: none;
+  background: #eceff1;
+  border-color: #b0bec5;
+  color: #b0bec5;
+}
+
+/*# sourceMappingURL=inputs.css.map */
